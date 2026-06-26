@@ -206,7 +206,7 @@
 /vendor/lib/modules/qca_cld3_qca6490.ko: /vendor/lib/modules/cnss2.ko /vendor/lib/modules/wlan_firmware_service.ko /vendor/lib/modules/cnss_plat_ipc_qmi_svc.ko /vendor/lib/modules/mi_cnss_statistic.ko /vendor/lib/modules/cnss_prealloc.ko /vendor/lib/modules/cnss_nl.ko /vendor/lib/modules/cnss_utils.ko /vendor/lib/modules/qcom_ramdump.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/mhi.ko /vendor/lib/modules/pci-msm-drv.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/qcom_sync_file.ko:
 /vendor/lib/modules/slim-qcom-ngd-ctrl.ko: /vendor/lib/modules/slimbus.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
-/vendor/lib/modules/binder_gki.ko:
+/vendor/lib/modules/binder_gki.ko: /vendor/lib/modules/millet_core.ko
 /vendor/lib/modules/qti_cpufreq_cdev.ko:
 /vendor/lib/modules/camcc-waipio.ko:
 /vendor/lib/modules/qca_cld3_qca6750.ko: /vendor/lib/modules/icnss2.ko /vendor/lib/modules/qti-adc-tm.ko /vendor/lib/modules/wlan_firmware_service.ko /vendor/lib/modules/mi_cnss_statistic.ko /vendor/lib/modules/cnss_prealloc.ko /vendor/lib/modules/cnss_nl.ko /vendor/lib/modules/cnss_utils.ko /vendor/lib/modules/qcom_ramdump.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko

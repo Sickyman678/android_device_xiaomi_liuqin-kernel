@@ -229,7 +229,7 @@
 /lib/modules/dcc_v2.ko: /lib/modules/minidump.ko /lib/modules/smem.ko
 /lib/modules/qcom_sync_file.ko:
 /lib/modules/slim-qcom-ngd-ctrl.ko: /lib/modules/slimbus.ko /lib/modules/pdr_interface.ko /lib/modules/qmi_helpers.ko /lib/modules/rproc_qcom_common.ko /lib/modules/qcom_smd.ko /lib/modules/qcom_glink_smem.ko /lib/modules/qcom_glink.ko /lib/modules/qcom_ipc_logging.ko /lib/modules/minidump.ko /lib/modules/smem.ko
-/lib/modules/binder_gki.ko:
+/lib/modules/binder_gki.ko: /lib/modules/millet_core.ko
 /lib/modules/qti_cpufreq_cdev.ko:
 /lib/modules/camcc-waipio.ko: /lib/modules/clk-qcom.ko /lib/modules/gdsc-regulator.ko /lib/modules/debug-regulator.ko /lib/modules/proxy-consumer.ko
 /lib/modules/socinfo.ko: /lib/modules/smem.ko
